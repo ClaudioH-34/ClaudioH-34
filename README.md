@@ -75,6 +75,6 @@ Tenho grande interesse pela área da programação e estou em constante aprendiz
   <img 
     alt="Top Langs" 
     height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioH-34&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioH-34&include_repo=burguer&theme=tokyonight&layout=compact&custom_title=Tecnologias" 
   />
 </div>
