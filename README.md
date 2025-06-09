@@ -1,6 +1,6 @@
 Cláudio Henrique Antunes Mello
 
-**`Desenvolvedoro Front-end`**
+**`Desenvolvedor Front-end`**
 
 Me chamo Claudio Henrique, sou natural de Minas Gerais e tenho formação técnico em Desenvolvimento de Sistemas pelo Senac. Atualmente, estou cursando o ensino superior em Análise e Desenvolvimento de Sistemas pela Uniube (EaD).
 
