@@ -1,4 +1,4 @@
-# https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white Cláudio Henrique
+Cláudio Henrique Antunes Mello
 
 **`Desenvolvedoro Front-end`**
 
@@ -8,7 +8,7 @@ Tenho grande interesse pela área da programação e estou em constante aprendiz
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+###  Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -64,7 +64,7 @@ Tenho grande interesse pela área da programação e estou em constante aprendiz
 <br/>
 <br/>
 
-### 📊 Estatísticas
+###  Estatísticas
 
 <p>
   <img 
