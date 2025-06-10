@@ -68,10 +68,10 @@ Tenho grande interesse pela área da programação e estou em constante aprendiz
 
 <div align="center">
   <img 
-    alt="GitHub Stats" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api?username=ClaudioH-34&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+  alt="GitHub Stats" 
+  height="180" 
+  src="https://github-readme-stats.vercel.app/api?username=ClaudioH-34&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=60" 
+/>
   <img 
     alt="Top Langs" 
     height="180" 
